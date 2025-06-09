@@ -1,16 +1,40 @@
-# weather
+☀️ Weather App
+The Weather App is your ultimate source for real-time weather updates and forecasts for any location around the world.
+With an intuitive interface, it provides users with accurate and up-to-date weather information to help you plan your day — no matter where you are.
 
-A new Flutter project.
+# 📱 Screenshots
 
-## Getting Started
+<img src="weather%20screens/1.png" width="300" alt="Weather App Screenshot 1">
+<img src="weather%20screens/2.png" width="300" alt="Weather App Screenshot 2">
+<img src="weather%20screens/3.png" width="300" alt="Weather App Screenshot 3">
+<img src="weather%20screens/4.png" width="300" alt="Weather App Screenshot 4">
+<img src="weather%20screens/5.png" width="300" alt="Weather App Screenshot 5">
+<img src="weather%20screens/6.png" width="300" alt="Weather App Screenshot 6">
+<img src="weather%20screens/7.png" width="300" alt="Weather App Screenshot 7">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+🌟 Features
+🌤️ Get real-time weather updates for your current location
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔍 Search by city or country name — accepts partial input and minor spelling mistakes
+⚠️ Shows "Country not found." error if the location is invalid
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌡️ Displays temperature and date for the selected location
+
+📅 Shows weather information for today and the next 2 days
+
+🎨 Dynamic UI — colors and icons change based on weather condition, creating a smooth and visually themed experience
+
+💡 Clean, responsive, and user-friendly interface
+
+
+
+🛠️ Built With
+
+Flutter
+
+Dart
+
+Dio (for HTTP requests)
+
+Weather API 
